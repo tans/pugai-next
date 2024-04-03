@@ -110,6 +110,18 @@ export default function Home() {
         </TableBody>
       </Table>
 
+      <div className="mt-4 font-black">工作原理</div>
+      <div>
+        管理员拉机器人入群 ，然后建表命令创建一个数据表。
+        群成员就可以通过对应的格式自行录入数据，通过导出记录到excel可以对记录数据进行统计和维护
+      </div>
+
+      <div className="mt-4 font-black">使用场景</div>
+      <div>
+        表格机器人有丰富的应用场景，
+        比如目前常见的每日打卡，但是更多的是目前通过表单小程序的行为，其实可以直接在群里进行。比如销售线索的收集，市场人员的销售业绩登记等等
+      </div>
+
       <div className="mt-8">
         <div>免费内测开放中，支持源码定制部署</div>
         <div>添加微信 tianshe00</div>
