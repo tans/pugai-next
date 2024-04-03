@@ -26,7 +26,7 @@ export default function Biaoge() {
             <div className="text-center font-black">李鲁味集团销售内部群</div>
             <div className="flex  items-start justify-end ">
               <Chatbox>
-                <div>创建表格:春暖花开</div>
+                <div>创建表单:春暖花开</div>
                 <div>关键字:促销活动</div>
                 <div>字段:战队</div>
                 <div>字段:成员</div>
@@ -38,7 +38,7 @@ export default function Biaoge() {
 
             <div className="flex items-start justify-start">
               <Bot></Bot>
-              <Chatbox>创建表格成功</Chatbox>
+              <Chatbox>成功创建新的表单：春暖花开</Chatbox>
             </div>
 
             <div className="flex items-start justify-end">
@@ -54,12 +54,12 @@ export default function Biaoge() {
 
             <div className="flex items-start justify-start">
               <Bot></Bot>
-              <Chatbox>插入数据成功</Chatbox>
+              <Chatbox>提交表单成功</Chatbox>
             </div>
 
             <div className="flex items-start justify-end">
               <Chatbox>
-                <p>导出表格:春暖花开</p>
+                <p>导出表单:春暖花开</p>
               </Chatbox>
               <User>管理员</User>
             </div>
@@ -105,8 +105,17 @@ export default function Biaoge() {
 
         <div className="mt-4 font-black">使用场景</div>
         <div>
-          表格机器人有丰富的应用场景，
-          比如目前常见的每日打卡，但是更多的是目前通过表单小程序的行为，其实可以直接在群里进行。比如销售线索的收集，市场人员的销售业绩登记等等
+          填单机器人有丰富的应用场景， 比如常见的每日打卡，
+          目前通过表单小程序的很多场景都可以用表单机器人在群里直接完成。
+          比如销售线索的收集，市场人员的销售业绩登记等等
+        </div>
+
+        <div className="mt-4 font-black">优缺点</div>
+        <div>
+          比起小程序，
+          群里直接发表单信息让机器人收集整理。更加直观，人们通过模仿就可以学会填写。其次群内气氛更活跃，一个小程序接龙丢群里，
+          管理员还要提醒大家。缺点是，大家在群里填，如果涉及隐私就不方便用这方案，
+          还有整天炸群不太好。
         </div>
       </div>
     </>

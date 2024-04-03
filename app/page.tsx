@@ -8,7 +8,7 @@ import Daka from "./home/daka";
 
 export default function Home() {
   return (
-    <div className="mx-auto max-w-2xl p-4 text-sm leading-8">
+    <div className="mx-auto max-w-2xl p-4 leading-8">
       <div className="my-4 flex items-center text-xs font-black font-bold">
         <img src="logo.webp" className="w-8 rounded-full" />
         <div className="mx-2">
