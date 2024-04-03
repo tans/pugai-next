@@ -18,7 +18,7 @@ export default function Biaoge() {
     <>
       <div className="bg-blue-50 p-4" id="#biaoge">
         <div className="my-2 rounded bg-blue-50 p-2 text-blue-900">
-          三步让微信机器人成为微信里的Excel工具
+          三步让微信机器人成为群表单工具
         </div>
 
         <div>
