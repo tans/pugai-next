@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 扑街仔
 
-## Getting Started
+## 工作原理
 
-First, run the development server:
+管理员拉机器人入群 ，然后建表命令创建一个数据表。 群成员就可以通过对应的格式自行录入数据，通过导出记录到excel可以对记录数据进行统计和维护
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 使用场景
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+表格机器人有丰富的应用场景， 比如目前常见的每日打卡，但是更多的是目前通过表单小程序的行为，其实可以直接在群里进行。比如销售线索的收集，市场人员的销售业绩登记等等
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 联系
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+免费内测开放中，支持源码定制部署
+添加微信 tianshe00
